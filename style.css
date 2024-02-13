@@ -180,7 +180,7 @@ body {
 }
 
 .text:hover::before {
-    content: "If loveing you was against the law, I'd be happy to spend the rest of my life in prison.";
+    content: "If loving you was against the law, I'd be happy to spend the rest of my life in prison.";
 }
 
 .text:hover span {
